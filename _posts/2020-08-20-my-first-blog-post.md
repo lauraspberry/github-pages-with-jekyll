@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "The day before orientation"
 date: 2020-08-22
 ---
 
